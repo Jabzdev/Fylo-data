@@ -2,14 +2,15 @@
 
 body {
     background-color: hsl(229, 57%, 11%);
-    background-image: url("images/bg-desktop.svg");
+    background-image: url("images/bg-desktop.png");
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-position: center bottom;
     font-family: 'Raleway', sans-serif;
     color: hsl(229, 7%, 55%);
     font-family: 'Raleway', sans-serif;
-
+    background-position: center;
+    background-size: cover;
 }
 
 .highlight {
